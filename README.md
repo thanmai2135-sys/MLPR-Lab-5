@@ -57,7 +57,17 @@ Key observations:
 ---
 
 ##  Result Visualization
-![first_visual](Plaksha_Faculty.jpg)
+![first_visual](Faces.png)
+
+![second_visual](Clustering.png)
+
+![third_visual](Clustered_points.png)
+
+![fourth_visual](Detected_face.png)
+
+![fifth_visual](clustered_points_faces.png)
+
+![sixth_visual](clustered_points_of_faces.png)
 
 ---
 

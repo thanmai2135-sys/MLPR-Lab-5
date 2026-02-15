@@ -12,9 +12,7 @@ The objectives of this lab were to:
 
 ---
 
-##  Methodology  
-
-The lab was completed in the following structured manner:
+##  Methodology 
 
 ### 1️ Data Preparation
 - Loaded the dataset using the provided template.
@@ -55,7 +53,11 @@ Key observations:
 - Performance metrics reflect effective generalization.
 - Visualization supports the correctness of implementation.
 
-*(All outputs and plots are included inside the Jupyter Notebook.)*
+
+---
+
+##  Result Visualization
+"C:\Users\thanm\OneDrive\Pictures\Screenshots\Screenshot 2026-02-15 220001.png"
 
 ---
 
